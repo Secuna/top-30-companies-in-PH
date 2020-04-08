@@ -9,7 +9,7 @@
 | AYALA LAND, INC. | Real Estate | None |
 | ABOITIZ POWER CORP. | Energy & Utilities | None |
 | BDO UNIBANK, INC. | Finance | None |
-| BLOOMBERRY RESORTS CORPORATION | Services | None |
+| BLOOMBERRY RESORTS CORPORATION | Casinos & Gaming | None |
 | BANK OF THE PHILIPPINE ISLANDS | Finance | None |
 | DMCI HOLDINGS, INC. | Holding Firms | None |
 | FIRST GEN CORPORATION | Energy & Utilities | None |
