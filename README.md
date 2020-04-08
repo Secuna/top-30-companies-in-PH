@@ -1,6 +1,8 @@
 # Top 30 Companies in the Philippines with Vulnerability Disclosure Program
 **(Alphabetical Order as of [April 7, 2020](https://www.pse.com.ph/stockMarket/marketInfo-marketActivity.html?tab=1))**
 
+![Image of Yaktocat](/Screen%20Shot%202020-04-08%20at%2012.04.05%20PM.png)
+
 | Companies   | Sector | VDP | Notes |
 | --------- | ------- | ------- | ------- |
 | AYALA CORPORATION | Holding Firms | None |
