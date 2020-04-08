@@ -1,4 +1,4 @@
-# Top 30 Companies in the Philippines 
+# Top 30 Companies in the Philippines with Vulnerability Disclosure Program
 **(Alphabetical Order as of [April 7, 2020](https://www.pse.com.ph/stockMarket/marketInfo-marketActivity.html?tab=1))**
 
 | Companies   | Sector | VDP | Notes |
